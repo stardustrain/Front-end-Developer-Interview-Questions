@@ -1,6 +1,7 @@
 # CSS Questions:
 
-* What is CSS selector specificity and how does it work?
+* What is CSS selector specificity and how does it work (이게 맞나...)?
+  - (반드시 기억해야 하는 CSS 선택자 30개)[https://code.tutsplus.com/ko/tutorials/the-30-css-selectors-you-must-memorize--net-16048]
 * What's the difference between "resetting" and "normalizing" CSS? Which would you choose, and why?
 * Describe Floats and how they work.
 * Describe z-index and how stacking context is formed.
